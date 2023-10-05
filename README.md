@@ -1,3 +1,3 @@
 # HumanAcitivtyRecognition
 
-Use robotviewtrain.py in scripts
+## Use RobotViewTrain.py in scripts
