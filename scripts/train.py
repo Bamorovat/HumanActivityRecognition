@@ -1,3 +1,8 @@
+"""
+Human Activity Recognition for Robot House Multiview Dataset 
+@author Mohammad Abadi <m.bamorovvat@gmail.com>
+"""
+
 import timeit
 from datetime import datetime
 import socket
