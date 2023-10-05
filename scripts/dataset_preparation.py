@@ -1,3 +1,8 @@
+"""
+Human Activity Recognition for Robot House Multiview Dataset 
+@author Mohammad Abadi <m.bamorovvat@gmail.com>
+"""
+
 import os
 from sklearn.model_selection import train_test_split
 import torch
